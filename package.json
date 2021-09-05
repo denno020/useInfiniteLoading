@@ -1,0 +1,22 @@
+{
+  "name": "use-infinite-loading",
+  "version": "0.1.0",
+  "description": "A react hook to handle infinite loading",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-cool-inview": "^2.0.7",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
